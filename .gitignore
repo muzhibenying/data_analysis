@@ -133,3 +133,6 @@ dmypy.json
 
 # system file
 *.DS_Store
+
+# images
+*.png
